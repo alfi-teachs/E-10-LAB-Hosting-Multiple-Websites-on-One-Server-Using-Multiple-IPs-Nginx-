@@ -78,15 +78,15 @@ sudo nano multiserver.conf
 # Add this:
 server {
     listen YOUR_PRIVATE_IP_1:80;
+    
     root /usr/share/nginx/html/site1;
 }
 
 server {
     listen YOUR_PRIVATE_IP_2:80;
+    
     root /usr/share/nginx/html/site2;
 }
-
-
 
 # Step 6: Test and Restart
 

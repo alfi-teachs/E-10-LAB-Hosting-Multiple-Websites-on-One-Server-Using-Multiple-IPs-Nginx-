@@ -52,7 +52,7 @@ sudo vi index.html
 
 Example content:
 
-<h1>Welcome to Site 1</h1>
+<h1> Welcome to Site 1 </h1>
 
 
 cd ../site2
@@ -61,7 +61,7 @@ sudo nano index.html
 
 Example:
 
-<h1>Welcome to Site 2</h1>
+<h1> Welcome to Site 2 </h1>
 
 # Step 4: Fix Permissions
 
